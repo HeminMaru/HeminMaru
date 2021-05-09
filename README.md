@@ -1,7 +1,6 @@
 - 👋 Hi, I’m @HeminMaru
-- 👀 I’m interested in Coding, App development(front end, back end), web development(back end) 
+- 👀 I’m interested in Coding, web development, Android App development
 - 🌱 I’m currently learning B.Tech Computer Science(Cyber Security)
-- 💞️ I’m looking to collaborate on making Apps/websites
 - 📫 How to reach me : Email id : hemin.maru11@gmail.com
 
 <!---
