@@ -1,6 +1,6 @@
 - 👋 Hi, I’m @HeminMaru
-- 👀 I’m interested in Coding, web development, Android App development
-- 🌱 I’m currently learning B.Tech Computer Science(Cyber Security)
+- 👀 I’m interested in Vulnerability and Penetration Testing Coding,OWASP, coding ,web development, Android App development
+- 🌱 I’m currently pursuing B.Tech Computer Science with a specialization in Cyber Security 
 - 📫 How to reach me : Email id : hemin.maru11@gmail.com
 
 <!---
